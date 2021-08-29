@@ -1,2 +1,15 @@
-# Project exclude paths
-/target/
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+
+# Maven
+target/
+
+# JetBrains IDE
+.idea/
+*.iml
